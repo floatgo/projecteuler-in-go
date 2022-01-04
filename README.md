@@ -6,7 +6,8 @@ Solutions to problems in projecteuler.net in golang!
 
 | ProjectEuler Link | Problem                        |  Solution in Go |
 |-------------------|--------------------------------|---------------|
-| [#1](https://leetcode.com/problems/reverse-string/) | Multiples of 3 or 5    |  [link](https://github.com/floatgo/projecteuler-in-go/tree/main/solutions/1_multiples_3_5)           |
+| [#1](https://projecteuler.net/problem=1) | Multiples of 3 or 5    |  [link](https://github.com/floatgo/projecteuler-in-go/tree/main/solutions/1_multiples_3_5) |
+| [#2](https://projecteuler.net/problem=2) | Even Fibonacci Numbers | [link](https://github.com/floatgo/projecteuler-in-go/tree/main/solutions/2_even_fibonacci) | 
 
 
 ## Footnote
