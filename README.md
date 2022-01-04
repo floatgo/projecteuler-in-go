@@ -6,7 +6,7 @@ Solutions to problems in projecteuler.net in golang!
 
 | ProjectEuler Link | Problem                        |  Solution in Go |
 |-------------------|--------------------------------|---------------|
-| [#1](https://leetcode.com/problems/reverse-string/) | Multiples of 3 or 5    |  [link](https://github.com/floatgo/leetcode-in-go/tree/main/344_reverse_string)           |
+| [#1](https://leetcode.com/problems/reverse-string/) | Multiples of 3 or 5    |  [link](https://github.com/floatgo/projecteuler-in-go/tree/main/solutions/1_multiples_3_5)           |
 
 
 ## Footnote
