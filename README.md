@@ -10,6 +10,7 @@ Solutions to problems in projecteuler.net in golang!
 | [#2](https://projecteuler.net/problem=2) | Even Fibonacci Numbers | [link](https://github.com/floatgo/projecteuler-in-go/tree/main/solutions/2_even_fibonacci) | 
 | [#3](https://projecteuler.net/problem=3) | Largest Prime Factor | [link](https://github.com/floatgo/projecteuler-in-go/tree/main/solutions/3_largest_prime_factor) | 
 | [#4](https://projecteuler.net/problem=4)| Largest Palindrome Product | [link](https://github.com/floatgo/projecteuler-in-go/tree/main/solutions/4_largest_palindrome_product) |
+| [#5](https://projecteuler.net/problem=5) | Smallest Multiple | [link](https://github.com/floatgo/projecteuler-in-go/tree/main/solutions/5_smallest_multiple) |
 
 
 ## Footnote
