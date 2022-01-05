@@ -13,6 +13,7 @@ Solutions to problems in projecteuler.net in golang!
 | [#5](https://projecteuler.net/problem=5) | Smallest Multiple | [link](https://github.com/floatgo/projecteuler-in-go/tree/main/solutions/5_smallest_multiple) |
 | [#6](https://projecteuler.net/problem=6) | Sum Square Difference | [link](https://github.com/floatgo/projecteuler-in-go/tree/main/solutions/6_sumsquare_difference) |
 | [#7](https://projecteuler.net/problem=7)| 10001st Prime | [link](https://github.com/floatgo/projecteuler-in-go/tree/main/solutions/7_10001st_prime) |
+| [#9](https://projecteuler.net/problem=9)| Special Pythagorean Triplet | [link](https://github.com/floatgo/projecteuler-in-go/tree/main/solutions/9_special_pythagorean_triplet) |
 ## Footnote
 Fixes and Suggestions are welcome! 
 
