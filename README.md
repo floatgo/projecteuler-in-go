@@ -12,7 +12,7 @@ Solutions to problems in projecteuler.net in golang!
 | [#4](https://projecteuler.net/problem=4)| Largest Palindrome Product | [link](https://github.com/floatgo/projecteuler-in-go/tree/main/solutions/4_largest_palindrome_product) |
 | [#5](https://projecteuler.net/problem=5) | Smallest Multiple | [link](https://github.com/floatgo/projecteuler-in-go/tree/main/solutions/5_smallest_multiple) |
 | [#6](https://projecteuler.net/problem=6) | Sum Square Difference | [link](https://github.com/floatgo/projecteuler-in-go/tree/main/solutions/6_sumsquare_difference) |
-
+| [#7](https://projecteuler.net/problem=7)| 10001st Prime | [link](https://github.com/floatgo/projecteuler-in-go/tree/main/solutions/7_10001st_prime) |
 ## Footnote
 Fixes and Suggestions are welcome! 
 
