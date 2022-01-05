@@ -11,7 +11,7 @@ Solutions to problems in projecteuler.net in golang!
 | [#3](https://projecteuler.net/problem=3) | Largest Prime Factor | [link](https://github.com/floatgo/projecteuler-in-go/tree/main/solutions/3_largest_prime_factor) | 
 | [#4](https://projecteuler.net/problem=4)| Largest Palindrome Product | [link](https://github.com/floatgo/projecteuler-in-go/tree/main/solutions/4_largest_palindrome_product) |
 | [#5](https://projecteuler.net/problem=5) | Smallest Multiple | [link](https://github.com/floatgo/projecteuler-in-go/tree/main/solutions/5_smallest_multiple) |
-
+| [#6](https://projecteuler.net/problem=6) | Sum Square Difference | [link](https://github.com/floatgo/projecteuler-in-go/tree/main/solutions/6_sumsquare_difference) |
 
 ## Footnote
 Fixes and Suggestions are welcome! 
